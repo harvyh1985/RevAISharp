@@ -1,2 +1,2 @@
 # RevAISharp
-a C# wrapper for rev.ai
+a C# controller for rev.ai
